@@ -1,0 +1,1 @@
+print("this is the average size of the trees:",(98+94+41+69+11)/5)
